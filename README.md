@@ -97,6 +97,47 @@ Enter the settings into config.ini
 
 
 
+## 💖 Support the Project
+
+If you find this project useful and would like to support future development, you can donate via crypto 💎  
+
+Every contribution helps us improve, maintain, and build new features 🚀  
+
+---
+
+### 🪙 Donate via Crypto
+
+| Coin | Address | QR Code |
+|------|----------|---------|
+| **Bitcoin (BTC)** | `bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un` | ![BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un) |
+| **Ethereum / USDT (ERC20)** | `0x8a0024f04132fa46e57617c78e0395d4a7fd3244` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8a0024f04132fa46e57617c78e0395d4a7fd3244) |
+| **BNB / USDT (BEP20)** | `0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89` | ![BNB QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89) |
+| **Solana / USDT (SOL)** | `AYQ2g33ioTKGChCUqiHwQe4iTFY83j5goaqf6QMra9RT` | ![SOL QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=AYQ2g33ioTKGChCUqiHwQe4iTFY83j5goaqf6QMra9RT) |
+
+---
+
+### ⚠️ Access Notice
+
+> **English:**  
+> Full functionality is available only after making a donation.  
+> After your donation, please provide the transaction hash and we will unlock the feature for you.  
+>
+> **Español:**  
+> La funcionalidad completa está disponible solo después de realizar una donación.  
+> Después de tu donación, proporciona el hash de la transacción y desbloquearemos la función.
+
+---
+
+### 🌟 Thank You for Your Support!
+
+Your generosity fuels innovation and helps us continue building great tools for the community ❤️  
+Together, we make open-source stronger!
+
+[![Star this repo](https://img.shields.io/github/stars/pydevtop/message-receipt-sending-binance-p2p-chat-websocket?style=social)](https://github.com/pydevtop/message-receipt-sending-binance-p2p-chat-websocket)
+
+
+
+
 ## ✅ System Requirements
 
 ### 🖥️ Operating System
