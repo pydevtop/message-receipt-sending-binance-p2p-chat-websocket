@@ -43,6 +43,10 @@ This tool is especially useful for anyone building **Binance P2P automation**, *
 
 ---
 
+## Domo
+[![Watch the video](https://img.youtube.com/vi/OWX2NsjT_sE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWX2NsjT_sE)
+
+
 ## Installation
 
 
