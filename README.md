@@ -118,19 +118,18 @@ Every contribution helps us improve, maintain, and build new features 🚀
 | **BNB / USDT (BEP20)** | `0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89` | ![BNB QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89) |
 | **Solana / USDT (SOL)** | `AYQ2g33ioTKGChCUqiHwQe4iTFY83j5goaqf6QMra9RT` | ![SOL QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=AYQ2g33ioTKGChCUqiHwQe4iTFY83j5goaqf6QMra9RT) |
 
----
-
 ### ⚠️ Access Notice
 
 > **English:**  
-> Full functionality is available only after making a donation.  
-> After your donation, please provide the transaction hash and we will unlock the feature for you.  
+> Full repository access is available only after making a donation (minimum $25 USD).  
+> After your donation, please provide the transaction hash and we will unlock access for you.  
 >
 > **Español:**  
-> La funcionalidad completa está disponible solo después de realizar una donación.  
-> Después de tu donación, proporciona el hash de la transacción y desbloquearemos la función.
+> El acceso completo al repositorio está disponible solo después de realizar una donación (mínimo 25 USD).  
+> Después de tu donación, proporciona el hash de la transacción y desbloquearemos el acceso para ti.
 
 ---
+
 
 ### 🌟 Thank You for Your Support!
 
