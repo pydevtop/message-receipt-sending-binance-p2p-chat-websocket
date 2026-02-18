@@ -121,11 +121,11 @@ Every contribution helps us improve, maintain, and build new features 🚀
 ### ⚠️ Access Notice
 
 > **English:**  
-> Full repository access is available only after making a donation (minimum $25 USD).  
+> Full repository access is available only after making a donation (minimum $50 USD).  
 > After your donation, please provide the transaction hash and we will unlock access for you.  
 >
 > **Español:**  
-> El acceso completo al repositorio está disponible solo después de realizar una donación (mínimo 25 USD).  
+> El acceso completo al repositorio está disponible solo después de realizar una donación (mínimo 50 USD).  
 > Después de tu donación, proporciona el hash de la transacción y desbloquearemos el acceso para ti.
 
 ---
