@@ -115,8 +115,9 @@ Every contribution helps us improve, maintain, and build new features 🚀
 |------|----------|---------|
 | **Bitcoin (BTC)** | `bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un` | ![BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un) |
 | **Ethereum / USDT (ERC20)** | `0x8a0024f04132fa46e57617c78e0395d4a7fd3244` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8a0024f04132fa46e57617c78e0395d4a7fd3244) |
+| **Tron / USDT (TRC20)** | `THp1FfWGVA512QKg4unXGznBvNYpiB6qvA` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=THp1FfWGVA512QKg4unXGznBvNYpiB6qvA) |
 | **BNB / USDT (BEP20)** | `0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89` | ![BNB QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89) |
-| **Solana / USDT (SOL)** | `AYQ2g33ioTKGChCUqiHwQe4iTFY83j5goaqf6QMra9RT` | ![SOL QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=AYQ2g33ioTKGChCUqiHwQe4iTFY83j5goaqf6QMra9RT) |
+
 
 ### ⚠️ Access Notice
 
