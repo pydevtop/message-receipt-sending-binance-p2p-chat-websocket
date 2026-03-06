@@ -100,44 +100,27 @@ Go into the settings of the script itself and open config.ini for editing
 Enter the settings into config.ini
 
 
+### 💡 Ready-to-Use Binance P2P Chat Integration
 
-## 💖 Support the Project
+If you need a working implementation instead of building everything from scratch, we provide a **Binance P2P Chat WebSocket Python Integration** designed for trading bots and automation tools.
 
-If you find this project useful and would like to support future development, you can donate via crypto 💎  
+The stack includes a fully working Python implementation that allows you to:
 
-Every contribution helps us improve, maintain, and build new features 🚀  
+- send messages automatically in Binance P2P chat  
+- send payment receipt images  
+- maintain a stable WebSocket connection  
+- integrate messaging into Binance P2P trading bots  
 
----
+This saves **weeks of reverse engineering** and lets you integrate chat automation into your trading tools immediately.
 
-### 🪙 Donate via Crypto
-
-| Coin | Address | QR Code |
-|------|----------|---------|
-| **Bitcoin (BTC)** | `bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un` | ![BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un) |
-| **Ethereum / USDT (ERC20)** | `0x8a0024f04132fa46e57617c78e0395d4a7fd3244` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8a0024f04132fa46e57617c78e0395d4a7fd3244) |
-| **Tron / USDT (TRC20)** | `THp1FfWGVA512QKg4unXGznBvNYpiB6qvA` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=THp1FfWGVA512QKg4unXGznBvNYpiB6qvA) |
-| **BNB / USDT (BEP20)** | `0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89` | ![BNB QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89) |
-
-
-### ⚠️ Access Notice
-
-> **English:**  
-> Full repository access is available only after making a donation (minimum $50 USD).  
-> After your donation, please provide the transaction hash and we will unlock access for you.  
->
-> **Español:**  
-> El acceso completo al repositorio está disponible solo después de realizar una donación (mínimo 50 USD).  
-> Después de tu donación, proporciona el hash de la transacción y desbloquearemos el acceso para ti.
+> Designed for developers building **Binance P2P trading bots and automation systems**.
 
 ---
 
+🚀 **Get the Ready-to-Use Python Stack**
 
-### 🌟 Thank You for Your Support!
+👉 https://py-dev.top/application-software/binance-p2p-chat-websocket-python
 
-Your generosity fuels innovation and helps us continue building great tools for the community ❤️  
-Together, we make open-source stronger!
-
-[![Star this repo](https://img.shields.io/github/stars/pydevtop/message-receipt-sending-binance-p2p-chat-websocket?style=social)](https://github.com/pydevtop/message-receipt-sending-binance-p2p-chat-websocket)
 
 
 
