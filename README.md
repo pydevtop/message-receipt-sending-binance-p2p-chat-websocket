@@ -149,7 +149,7 @@ This saves **weeks of reverse engineering** and lets you integrate chat automati
 
 ## Contacts
 Telegram:  @morgan_sql<br>
-Telegram channel: https://t.me/pydevtop
+
 
 ## License and Usage Notice
 
