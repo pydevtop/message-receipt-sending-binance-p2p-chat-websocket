@@ -122,7 +122,7 @@ This saves **weeks of reverse engineering** and lets you integrate chat automati
 👉 https://py-dev.top/application-software/binance-p2p-chat-websocket-python
 
 
-
+******************************************************************************
 ####  Similar developments:
 ******************************************************************************
 P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
